@@ -1,0 +1,57 @@
+.card1{
+    position: absolute;
+    z-index: 1;
+}
+.cardf{
+    width: 447px;
+    height: 246px;
+    background-image:url("./Rectangle2.png");   
+    margin-top:30px;
+    margin-left:60px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ellipse{
+    display: flex;
+    align-items: center;
+    gap:17px;
+    padding-top: 30px;
+    margin-left:30px;
+}
+.displayCardNumber{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.68px;
+    display: flex;
+    justify-content: center;
+    margin-top:60px;
+}
+.displayHolderName{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.47px;
+}
+.displayExp{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 3.29px;
+}
+.nameExp{
+    display: flex;
+    justify-content: space-between;
+    margin-left:30px;
+    margin-right: 30px;
+    margin-top:30px
+}

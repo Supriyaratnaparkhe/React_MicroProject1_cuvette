@@ -1,0 +1,130 @@
+.card2{
+    width: 447px;
+    height: 246px;
+    position: absolute;
+    z-index: 1;
+    margin-top:300px;
+    margin-left:150px;
+    box-shadow:10px 11px 62px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(107deg, #FFF 0%, #92979d 100%);
+    border-radius: 10px;
+}
+.header{
+    width: 448px;
+    height: 52px;
+    background: #000;
+    margin-top:40px;
+}
+.cvv{
+    width: 361px;
+    height: 38px;
+    border-radius: 4px; 
+    background: #838a91;
+    text-align: end;
+    margin-top: 18px;
+    margin-left:42px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.cvvDisplay{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 3.29px;
+    margin-right:10px;
+}
+.dummyText{
+    display: flex;
+    flex-direction: column;
+    gap:9px;
+    align-items: center;
+    margin-top: 30px;
+}
+.row1{
+    display: flex;
+    gap:7px;
+}
+.row2{
+    display: flex;
+    gap:7px;
+}
+.row3{
+    display: flex;
+    gap:7px;
+}
+.ele1{
+    width: 115px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele2{
+    width: 22px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele3{
+    width: 20px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele4{
+    width: 9px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele5{
+    width: 22px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele6{
+    width: 61px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele7{
+    width: 46px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele8{
+    width: 9px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele9{
+    width: 9px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele10{
+    width: 22px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele11{
+    width: 21px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
+.ele12{
+    width: 114px;
+    height: 4.533px;
+    border-radius: 4px;
+    background: #838a91;
+}
